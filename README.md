@@ -1,4 +1,4 @@
-# hm-dianping
+# Hm-DianPing
 
 #### 介绍
 一款基于SpringBoot+AyBatisPlus+Redis+Mysql+-RabbitMQ的本地生话信息及交易平台
